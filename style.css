@@ -1,0 +1,10 @@
+
+.grid{
+    display: grid;
+    grid-template-columns: repeat(9, auto);
+    justify-items: center;
+}
+input{
+    width: 30px;
+    height: 30px;
+}
